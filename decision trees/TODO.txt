@@ -1,0 +1,8 @@
+import dis
+dis.dis(for_loop)
+dis.dis(list_comp)
+to see the bytecodes
+
+def __init__(self, ID, X_n, y_n, rule = None, p_ind = None, p_id = None,leaf = True, depth = 0, dtype = 'quant'):
+
+def _replace_split(self, rule, p_ind, rss_reduction, dtype = 'quant'):

@@ -1,0 +1,4 @@
+import dis
+dis.dis(for_loop)
+dis.dis(list_comp)
+to see the bytecodes

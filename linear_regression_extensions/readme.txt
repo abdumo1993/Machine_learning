@@ -1,0 +1,3 @@
+Regularized Regression
+Bayesian Regression
+General Linear Models
